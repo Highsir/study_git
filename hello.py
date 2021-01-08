@@ -4,5 +4,6 @@ def hello(s: str):
 def test():
     print('git trset --hard HEAD^')
 
+
 obj = "world"
 hello(obj)
